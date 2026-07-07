@@ -1,4 +1,4 @@
 - ** الاسم الثلاثي : **راما احمد محي الدين
 - مسار الصورة المحلي :** rama.png**
-- رابط المشروع على GitHub :()
-- رابط الصورة على GitHub: ()
+- رابط المشروع على GitHub :(https://mohyaldinrama-oss.github.io/First-Task/)
+- رابط الصورة على GitHub: (https://github.com/mohyaldinrama-oss/First-Task/blob/main/images/rama.png?raw=true)
